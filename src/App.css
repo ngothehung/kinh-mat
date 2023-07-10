@@ -1,0 +1,40 @@
+.product-container {
+    width: 900px;
+    padding-top: 40px;
+    padding-bottom: 16px;
+    display: flex;
+    margin: 0 auto;
+    grid-template-columns: 1fr 1fr;
+}
+
+img {
+    width: 400px;
+
+}
+
+.info-wrapper {
+    padding-left: 5rem;
+    width: 50%;
+}
+
+.info-wrapper h1 {
+    font-weight: 700;
+    width: 50%;
+    line-height: 23px;
+    color: #000;
+
+}
+.price{
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+.info-color{
+    padding-top: 20px;
+    line-height: 20px;
+}
+.container-homepage{
+    width: 100%;
+}
+.container-homepage img{
+    width: 150%;
+}

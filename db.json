@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "name": "THE FLOW 01",
+      "price": "3,300,000",
+      "image": "https://www.seeson.vn/cdn/shop/files/TheFlow01-Silver.jpg?v=1683791945&width=1206",
+      "description": "Lấy cảm hứng từ thiết kế gọng tròn cổ điển của những năm 1920s, The Flow 01 được nghiên cứu tập trung vào form dáng để tìm ra đường lens tròn với tỷ lệ tốt nhất.",
+      "categoryId": "1",
+      "id": 4
+    },
+    {
+      "name": "THE CUT 13",
+      "price": "2,750,000",
+      "image": "https://www.seeson.vn/cdn/shop/files/TheCut13-OliveGradient.jpg?v=1688400572&width=1206",
+      "description": "The Cut 13 quay trở lại với thêm 02 phiên bản màu Basic và 06 phiên bản màu Colorful. Vẫn với dáng mắt geometric tròn mềm nay được cải tiến giảm độ sắc cạnh cùng tỷ lệ mới của tròng mắt và cầu mũi.",
+      "categoryId": "1",
+      "id": 5
+    },
+    {
+      "name": "THE CUT 14",
+      "price": "2,950,000",
+      "image": "https://www.seeson.vn/cdn/shop/files/TheCut14-Crystal-Red.jpg?v=1688442261&width=1206",
+      "description": "The Cut 14 với thiết kế gọng vuông cùng độ cao tròng mắt lớn và viền mỏng giúp hài hoà hơn với gương mặt.",
+      "categoryId": "1",
+      "id": 6
+    },
+    {
+      "name": "THE CUT 14",
+      "price": "2,950,000",
+      "image": "https://www.seeson.vn/cdn/shop/files/TheCut14-Crystal-Red.jpg?v=1688442261&width=1206",
+      "description": "The Cut 14 với thiết kế gọng vuông cùng độ cao tròng mắt lớn và viền mỏng giúp hài hoà hơn với gương mặt.",
+      "categoryId": "1",
+      "id": 7
+    },
+    {
+      "name": "THE CUT 14",
+      "price": "2,950,000",
+      "image": "https://www.seeson.vn/cdn/shop/files/TheCut14-Crystal-Red.jpg?v=1688442261&width=1206",
+      "description": "The Cut 14 với thiết kế gọng vuông cùng độ cao tròng mắt lớn và viền mỏng giúp hài hoà hơn với gương mặt.",
+      "categoryId": "1",
+      "id": 8
+    },
+    {
+      "name": "THE CUT 15",
+      "price": "2,750,000",
+      "image": "https://www.seeson.vn/cdn/shop/files/TheCut15-Milky-Grey.jpg?v=1688462459&width=1206",
+      "description": "Shape kính chữ nhật hẹp đặc trưng trong design của SEESON quay trở lại với phần front-end được thiết kế bo góc mềm mại, bớt sắc cạnh. Sự kết hợp màu sắc mới của lõi kim loại và acetate cũng góp phần giữ lại tinh thần edgy-look của The Cut 15.    Color",
+      "categoryId": "1",
+      "id": 9
+    }
+  ],
+  "users": []
+}
